@@ -1,0 +1,21 @@
+body{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 5px 5px 5px rgb(152, 145, 145);
+    background-image: radial-gradient(circle at 100% 100%, #ff9c6f 0, #ff9277 6.25%, #ff887e 12.5%, #ff7c87 18.75%, #ff708f 25%, #ff6398 31.25%, #ff55a2 37.5%, #ff48ab 43.75%, #f23cb5 50%, #df34bf 56.25%, #c833cb 62.5%, #ad38d6 68.75%, #8c40e1 75%, #5e48ec 81.25%, #0051f4 87.5%, #0058fb 93.75%, #005eff 100%);
+}
+
+#potaxio{
+    background-image: radial-gradient(circle at 104.17% 95.45%, #e66ef5 0, #c05bf5 16.67%, #8f4af4 33.33%, #3c3cf2 50%, #0035f0 66.67%, #0034ee 83.33%, #0034eb 100%);
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    color: radial-gradient(circle at -14.09% 20.12%, #daffb7 0, #dfffa7 7.14%, #e4f996 14.29%, #e8ef85 21.43%, #ebe273 28.57%, #eed561 35.71%, #f0c64e 42.86%, #f2b53c 50%, #f4a32c 57.14%, #f69221 64.29%, #f8801d 71.43%, #fb6e20 78.57%, #fd5a27 85.71%, #ff4531 92.86%, #ff2a3c 100%);
+}
+
+.copy_right_footer{
+    font-size: 30px;
+}
+
+#potaxio{
+    box-shadow: 5px 5px 5px rgb(152, 145, 145);
+}
